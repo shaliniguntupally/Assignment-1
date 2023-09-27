@@ -1,0 +1,19 @@
+Data Statistics:
+          Height      Weight        Age   Grip Strength  Unnamed: 5
+count  10.000000   10.000000  10.000000       10.000000         0.0
+mean   68.600000  131.900000  32.500000       26.000000         NaN
+std     1.670662   14.231811  12.860361        4.521553         NaN
+min    65.800000  112.000000  17.000000       19.000000         NaN
+25%    67.825000  120.750000  22.250000       22.500000         NaN
+50%    68.450000  136.000000  29.500000       27.000000         NaN
+75%    69.700000  141.750000  43.500000       29.750000         NaN
+max    71.500000  153.000000  51.000000       31.000000         NaN
+
+Correlation Matrix (optional):
+                  Height    Weight       Age   Grip Strength  Unnamed: 5
+Height          1.000000  0.571525 -0.032580       -0.167682         NaN
+Weight          0.571525  1.000000  0.190926        0.032807         NaN
+Age            -0.032580  0.190926  1.000000        0.133756         NaN
+ Grip Strength -0.167682  0.032807  0.133756        1.000000         NaN
+Unnamed: 5           NaN       NaN       NaN             NaN         NaN
+
